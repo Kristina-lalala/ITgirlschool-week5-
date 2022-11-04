@@ -44,7 +44,7 @@ html {
 }
 
 body {
-    background: url(/hw2/assets/image/bgc.png) no-repeat;
+    background: url(/assets/image/bgc.png) no-repeat;
     position: absolute;
     width: 1920px;
     height: 950px;
